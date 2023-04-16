@@ -8,24 +8,9 @@ header {
 	padding: 20px;
 }
 
-form {
-	display: inline-block;
-	margin: 20px;
-	text-align: center;
-}
-
-input[type="text"] {
-	display: block;
-	margin-bottom: 10px;
-	padding: 10px;
-	font-size: 20px;
-	border: 2px solid #8B0000;
-	border-radius: 5px;
-}
-
 button {
 	display: block;
-	margin: 0 auto 10px;
+	margin: 20px auto;
 	padding: 10px 20px;
 	font-size: 20px;
 	background-color: transparent;
@@ -40,23 +25,3 @@ button:hover {
 	background-color: #8B0000;
 	color: #FFFFFF;
 }
-
-.back-button {
-	display: inline-block;
-	margin: 20px;
-	padding: 10px 20px;
-	font-size: 20px;
-	background-color: transparent;
-	color: inherit;
-	border: 2px solid #8B0000;
-	border-radius: 5px;
-	text-decoration: none;
-	cursor: pointer;
-	transition: background-color 0.3s ease;
-}
-
-.back-button:hover {
-	background-color: #8B0000;
-	color: #FFFFFF;
-}
-
