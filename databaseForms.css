@@ -1,0 +1,25 @@
+body {
+	background-color: #d8bfd8;
+	color: #8b0000;
+}
+
+table {
+	margin: 20px auto;
+	border-collapse: collapse;
+	width: 80%;
+}
+
+th, td {
+	border: 1px solid #8b0000;
+	padding: 10px;
+}
+
+th {
+	background-color: #8b0000;
+	color: white;
+}
+
+button {
+	margin: 20px;
+	padding: 10px;
+	font-size:
