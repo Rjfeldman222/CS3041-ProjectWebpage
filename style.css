@@ -1,0 +1,27 @@
+body {
+	background-color: #A56D8E; /* Light Purple */
+	color: #8B0000; /* Blood Red */
+	text-align: center;
+}
+
+header {
+	padding: 20px;
+}
+
+button {
+	display: block;
+	margin: 20px auto;
+	padding: 10px 20px;
+	font-size: 20px;
+	background-color: transparent;
+	color: inherit;
+	border: 2px solid #8B0000;
+	border-radius: 5px;
+	cursor: pointer;
+	transition: background-color 0.3s ease;
+}
+
+button:hover {
+	background-color: #8B0000;
+	color: #FFFFFF;
+}
